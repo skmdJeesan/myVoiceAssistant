@@ -139,8 +139,8 @@ def main_process() :
         #         pywhatkit.send_mail(
         #             'jeesanskmd@gmail.com',  # Sender email
         #             user_config.password,  # App password from Google
-        #             'bakchodi bss',  # Email subject
-        #             'Aur bhai kya haal chal?',  # Email content
+        #             'Hello!',  # Email subject
+        #             'How are you?',  # Email content
         #             'skmdjeesan@gmail.com'  # Receiver email
         #         )
         #         print('Email sent successfully.')
