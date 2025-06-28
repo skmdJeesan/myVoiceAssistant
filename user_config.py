@@ -1,0 +1,2 @@
+password = 'abcde129'
+apiKey = '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'
